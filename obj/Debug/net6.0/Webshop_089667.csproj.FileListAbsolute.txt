@@ -1,0 +1,177 @@
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\appsettings.Development.json
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\appsettings.json
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\Aangeleverd.staticwebassets.runtime.json
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\Aangeleverd.exe
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\Aangeleverd.deps.json
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\Aangeleverd.runtimeconfig.json
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\Aangeleverd.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\Aangeleverd.pdb
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\Aangeleverd.csproj.AssemblyReference.cache
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\Aangeleverd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\Aangeleverd.AssemblyInfoInputs.cache
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\Aangeleverd.AssemblyInfo.cs
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\Aangeleverd.csproj.CoreCompileInputs.cache
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\Aangeleverd.MvcApplicationPartsAssemblyInfo.cache
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\Aangeleverd.RazorAssemblyInfo.cache
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\Aangeleverd.RazorAssemblyInfo.cs
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\staticwebassets\msbuild.Aangeleverd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\staticwebassets\msbuild.build.Aangeleverd.props
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Aangeleverd.props
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Aangeleverd.props
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\scopedcss\bundle\Aangeleverd.styles.css
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\scopedcss\projectbundle\Aangeleverd.bundle.scp.css
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\Aangeleverd.csproj.CopyComplete
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\Aangeleverd.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\refint\Aangeleverd.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\Aangeleverd.pdb
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\Aangeleverd.genruntimeconfig.cache
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Aangeleverd\obj\Debug\net6.0\ref\Aangeleverd.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\Aangeleverd.csproj.AssemblyReference.cache
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\Aangeleverd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\Aangeleverd.AssemblyInfoInputs.cache
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\Aangeleverd.AssemblyInfo.cs
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\Aangeleverd.csproj.CoreCompileInputs.cache
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\Aangeleverd.MvcApplicationPartsAssemblyInfo.cache
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\Aangeleverd.RazorAssemblyInfo.cache
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\Aangeleverd.RazorAssemblyInfo.cs
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\Aangeleverd.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\refint\Aangeleverd.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\Aangeleverd.pdb
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\appsettings.Development.json
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\appsettings.json
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\Aangeleverd.staticwebassets.runtime.json
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\Aangeleverd.exe
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\Aangeleverd.deps.json
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\Aangeleverd.runtimeconfig.json
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\Aangeleverd.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\Aangeleverd.pdb
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\staticwebassets\msbuild.Aangeleverd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\staticwebassets\msbuild.build.Aangeleverd.props
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Aangeleverd.props
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Aangeleverd.props
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\scopedcss\bundle\Aangeleverd.styles.css
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\scopedcss\projectbundle\Aangeleverd.bundle.scp.css
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\Aangeleverd.csproj.CopyComplete
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\Aangeleverd.genruntimeconfig.cache
+C:\Niveau 4\Jaar 2\Minor\voor studenten\Aangeleverd\Oefening 4\obj\Debug\net6.0\ref\Aangeleverd.dll
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\Webshop_089667.csproj.AssemblyReference.cache
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\Webshop_089667.GeneratedMSBuildEditorConfig.editorconfig
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\Webshop_089667.AssemblyInfoInputs.cache
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\Webshop_089667.AssemblyInfo.cs
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\Webshop_089667.csproj.CoreCompileInputs.cache
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\Webshop_089667.MvcApplicationPartsAssemblyInfo.cache
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\Webshop_089667.RazorAssemblyInfo.cache
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\Webshop_089667.RazorAssemblyInfo.cs
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\Webshop_089667.dll
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\Webshop_089667.pdb
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\appsettings.Development.json
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\appsettings.json
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\Webshop_089667.staticwebassets.runtime.json
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\Webshop_089667.exe
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\Webshop_089667.deps.json
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\Webshop_089667.runtimeconfig.json
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\Webshop_089667.dll
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\Webshop_089667.pdb
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\staticwebassets\msbuild.Webshop_089667.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\staticwebassets\msbuild.build.Webshop_089667.props
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Webshop_089667.props
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Webshop_089667.props
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\staticwebassets.build.json
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\staticwebassets.development.json
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\scopedcss\bundle\Webshop_089667.styles.css
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\scopedcss\projectbundle\Webshop_089667.bundle.scp.css
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\Webshop_089667.csproj.CopyComplete
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\refint\Webshop_089667.dll
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\Webshop_089667.genruntimeconfig.cache
+C:\Niveau 4\Jaar 2\Minor\Webshop_089667\obj\Debug\net6.0\ref\Webshop_089667.dll

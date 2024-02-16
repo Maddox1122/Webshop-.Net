@@ -1,0 +1,36 @@
+@page
+@model BeheerModel
+@{
+    ViewData["Title"] = "Beheer Page";
+}
+
+<h1 class="display-4">Fietskleding.nl</h1>
+<h3>Nieuwe Prodcut invoeren</h3>
+<a href="/Insert">Nieuw Product</a>
+<a class="btn btn-primary" href="/Beheer?logout=true">Logout</a>
+
+<table>
+    <thead>
+        <tr>
+            <th>artikelnummer</th>
+            <th>naam</th>
+            <th>prijs</th>
+            <th>afbeelding</th>
+            <th>Update</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Product product in Model.Products)
+        {
+            <tr>
+                <td>@product.Artikelnummer</td>
+                <td>@product.Naam</td>
+                <td>€@product.Prijs</td>
+                <td><img src='Images\@product.Afbeelding' /></td>
+                <td><a class="btn btn-primary" href="/Update?artikelnummer=@product.Artikelnummer">Update</a></td>
+                <td><a class="btn btn-primary" href="/beheer?artikelnummer=@product.Artikelnummer">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

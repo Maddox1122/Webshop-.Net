@@ -1,0 +1,33 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+table, th, tr, td {
+    border-color: lightgray;
+    border-width: 1px;
+    border-style: solid;
+}
+
+th, td {
+    padding: 10px;
+}
+
+img {
+    height: 100px;
+}

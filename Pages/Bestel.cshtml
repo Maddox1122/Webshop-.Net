@@ -1,0 +1,32 @@
+﻿@page
+@model Webshop_089667.Pages.BestelModel
+@{
+}
+
+<h1 class="display-4">Fietskleding.nl</h1>
+<h3>Het volgende product is geselecteerd om te bestellen:</h3>
+<p>@Model.ArtikelNaam</p>
+<p>prijs: @Model.ArtikelPrijs</p>
+<p><img src='Images\@Model.ArtikelAfbeelding' /></p>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="naam"></label>
+        <input type="text" class="form-control" id="naam" asp-for="naam">
+        <span asp-validation-for='naam' class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="adres"></label>
+        <input type="text" class="form-control" id="adres" asp-for="adres">
+        <span asp-validation-for='adres' class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="woonplaats"></label>
+        <input type="text" class="form-control" id="woonplaats" asp-for="woonplaats">
+        <span asp-validation-for='woonplaats' class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="hidden" class="form-control" id="artikelnummer" asp-for="@Model.ArtikelNummer">
+    </div>
+    <button type="submit" class="btn btn-primary">Bestel</button>
+</form>
